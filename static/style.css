@@ -1,0 +1,43 @@
+
+.top {
+	color: #ffffff !important;
+}
+
+.logo {
+	height: 30%;
+	width: 30%;
+	margin: 1.1rem;
+}
+
+input {
+	box-sizing: border-box !important;
+	border: 1px solid #ffffff !important;
+	border-radius: 5px !important;
+	background-color: #f3f3f3 !important;
+	padding: 26px 20px !important;
+	width: 100% !important;
+}
+
+::placeholder {
+	color: #888888;
+}
+
+button {
+	width: 100% !important;
+}
+
+hr {
+	margin: 1.5rem 0rem;
+}
+
+.shopper-pic {
+	height: 60%;
+	width: 60%;
+	margin-bottom: 1.6rem;
+}
+
+.footer-section {
+	padding: 20px;
+}
+
+
